@@ -1,0 +1,9 @@
+circle{
+    transform: rotate(93deg);
+    transform-origin: 50% 50%;
+    transition: all 1s ease-in-out;
+}
+/* .porgrase_circle{
+    justify-content: center;
+    text-align: center;
+} */
